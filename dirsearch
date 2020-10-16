@@ -1,0 +1,2 @@
+cd dirsearch
+python3 dirsearch.py -u <URL> -e <EXTENSION>
